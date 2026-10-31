@@ -122,7 +122,7 @@ Stránka běží na Vercelu, formulář opravdu doručí lead, události se mě�
 
 ## 15. Repozitáře
 
-Soukromé repozitáře na GitHubu (`senojed`): `Clientelo-ZADANI-B` a `Clientelo-ZADANI-A`. Do odevzdání se vybrané repo přepne na veřejné, repo A zůstane soukromé a nepoužité (v README odevzdaného repa krátká věta, že jiné repo není součástí odevzdání). Repozitář B se od začátku staví jako bezpečný pro zveřejnění: `.gitignore`, `.env.example` (žádné skutečné klíče), žádné skutečné leady, žádná osobní data v datech ani v logu.
+Soukromé repozitáře na GitHubu (`senojed`): `Clientelo-ZADANI-B` a `Clientelo-ZADANI-A`. (Repo B bylo 31. 10. 2026 přejmenováno na `web-etf-ucits-comparison`; starý odkaz GitHub přesměruje.) Do odevzdání se vybrané repo přepne na veřejné, repo A zůstane soukromé a nepoužité (v README odevzdaného repa krátká věta, že jiné repo není součástí odevzdání). Repozitář B se od začátku staví jako bezpečný pro zveřejnění: `.gitignore`, `.env.example` (žádné skutečné klíče), žádné skutečné leady, žádná osobní data v datech ani v logu.
 
 ## 16. Priority při nedostatku času
 
