@@ -5,7 +5,7 @@
 ## V kostce
 
 - **Mohli bychom zítra spustit reklamu?** Technicky ano: stránka je nasazená, formulář ukládá kontakty, celá cesta se měří a podle pravidel Meta k 10. 10. 2026 reklamy nevyžadují certifikaci inzerenta. **Firemní kampaň bych bez tří kroků nespouštěl:** právní kontrola textů, zásad a měření (účel a právní základ ukládání e-mailů, pravidla ePrivacy), doplnění kontaktu správce údajů (u dema je zástupný text) a hosting, který dovoluje komerční provoz (Vercel Hobby ne). Podrobně v části Co chybí.
-- **Stránka:** https://clientelo-zadani-b.vercel.app
+- **Stránka:** https://web-etf-ucits-comparison.vercel.app
 - **Reklamy** (texty a obrázky): [`ads/ad-a.md`](ads/ad-a.md), [`ads/ad-b.md`](ads/ad-b.md)
 - **Data a důkazy:** [`data/etf.json`](data/etf.json), [`data/overeni.md`](data/overeni.md), [`data/dukazy/`](data/dukazy/)
 - **Práce s AI:** [`ai-log/`](ai-log/), shrnutí v části Jak jsem pracoval s AI

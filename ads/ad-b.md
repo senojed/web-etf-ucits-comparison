@@ -9,7 +9,7 @@ Stav: texty a vizuály hotové (v3, po auditu 1; vizuály vytvořil Jan), podle 
 - **Tlačítko (CTA):** Další informace
 - **Vizuál / koncept:** výřez tabulky (2 řádky čitelně, zbytek naznačený), malé "ověřeno 9. a 10. 10. 2026" a "zdroj u každého řádku". Bez superlativů. Ve vizuálu čitelně: "Marketingové sdělení. Investice nesou riziko ztráty."
 - **Cílení:** ČR, čeština, 18+; zájmy finance a investování jen pokud to platforma dovolí, jinak široké cílení
-- **UTM:** `?utm_source=meta&utm_medium=paid_social&utm_campaign=etf_prehled&utm_content=ad_b` (cíl: https://clientelo-zadani-b.vercel.app/)
+- **UTM:** `?utm_source=meta&utm_medium=paid_social&utm_campaign=etf_prehled&utm_content=ad_b` (cíl: https://web-etf-ucits-comparison.vercel.app/)
 - **Návaznost na první obrazovku:** obě reklamy vedou na stejnou stránku s nadpisem "Evropské alternativy amerických ETF" (štítek "Srovnání"). Měření pozná reklamu podle `utm_content=ad_b` (varianta "b").
 
 

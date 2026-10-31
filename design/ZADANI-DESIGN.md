@@ -7,7 +7,7 @@ Tohle vlož jako první zprávu do nového chatu Claude Code otevřeného ve slo
 Pracuješ na hotové landing page (konverzní stránka pro českého drobného investora z mobilní reklamy). Je ve **funkční neutrální verzi**. Tvůj úkol je **jen vzhled**: převést můj návrh (PNG) do kódu. Obsah, data ani měření nemění.
 
 ## Kontext
-- Repo: tahle složka (`ZADANIE B`), aplikace v `web/` (Next.js 16, TypeScript, Tailwind v4). Živá stránka: https://clientelo-zadani-b.vercel.app (auto-deploy z GitHub větve `main`, Root Directory `web`).
+- Repo: tahle složka (`ZADANIE B`), aplikace v `web/` (Next.js 16, TypeScript, Tailwind v4). Živá stránka: https://web-etf-ucits-comparison.vercel.app (auto-deploy z GitHub větve `main`, Root Directory `web`).
 - Hodnotí se hlavně otázka "mohli bychom na ni zítra spustit reklamu?" a postup práce s AI. Stránka musí být optimalizovaná na získání kontaktů a nesmí vypadat jako základní výstup Clauda.
 - Cílovka: český drobný investor, mobil, pár sekund. Mobil (375×812) je hlavní, desktop jen nesmí být rozbitý.
 - Komunikuj česky, tykej mi, stručně. Komentář na začátek každého souboru: co dělá a k čemu slouží. Komentuj pro začátečníka, bez zbytečných komentářů.
