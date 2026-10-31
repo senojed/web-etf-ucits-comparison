@@ -1,6 +1,6 @@
 # Evropské alternativy amerických ETF: konverzní landing page
 
-Řešení zadání B (Clientelo, Junior AI Developer). Landing page pro českého drobného investora, který přijde z reklamy na mobilu: srovnání 4 amerických ETF z NYSE Arca s jejich UCITS alternativami na stejný index, výpočet rozdílu ročního poplatku a celý přehled zdarma za e-mail. Vznikla jako ukázka a není spuštěná kampaň.
+Řešení praktické úlohy z výběrového řízení na pozici Junior AI Developer (zadání B). Landing page pro českého drobného investora, který přijde z reklamy na mobilu: srovnání 4 amerických ETF z NYSE Arca s jejich UCITS alternativami na stejný index, výpočet rozdílu ročního poplatku a celý přehled zdarma za e-mail. Vznikla jako ukázka a není spuštěná kampaň.
 
 ## V kostce
 
